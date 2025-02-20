@@ -1,4 +1,11 @@
-## Hi there 👋
+## WELCOME 👋
+들어오신 모든 분들 오늘도 좋은 하루 되세요!
+
+## My Favorite tools
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
 
 <!--
 **2taewon/2taewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
