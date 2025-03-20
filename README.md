@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 ## My Practice 
-
+https://www.notion.so/Full-Stack-2025-1bcc2f5b1de3801eb106f88729fc075c?p=1bcc2f5b1de380ae8e80cb7cec6abfb4&pm=s
 
 <!--
 **2taewon/2taewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
