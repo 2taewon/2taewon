@@ -20,13 +20,40 @@ INFO  --- [main] dev.taewon.Application  : Started Application — open to backe
 쿼리 로그와 부하 테스트로 **왜 느린지, 언제 깨지는지**를 확인하는 걸 좋아합니다.<br>
 지금은 직접 만든 [🌌 별빛안부](https://www.starletter.co.kr)를 운영하고 있어요. → [Starlight-Letter/backend](https://github.com/Starlight-Letter/backend)
 
-```yaml
-stack:
-  backend:  [Java, Spring Boot, Spring Security, JPA, JdbcTemplate]
-  data:     [PostgreSQL, Redis, Flyway]
-  infra:    [AWS, Docker Compose, GitHub Actions]
-  observe:  [Prometheus, Grafana, k6]
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--2taewon.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-2taewon.vercel.app/)
 
-[![Mail](https://img.shields.io/badge/teawon1005@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:teawon1005@naver.com)
-[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://shore-jaw-781.notion.site/19ac2f5b1de3805291adcab95baf1ab8)
+### `$ ./gradlew dependencies`
+
+**Backend**<br>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA_%28Hibernate%29-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DC382D?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket_%2F_STOMP-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Database**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+**Infra · Observability**<br>
+![AWS](https://img.shields.io/badge/AWS_EC2_·_S3-FF9900?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**Test**<br>
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
+![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)
+
+**Frontend · Tools**<br>
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
