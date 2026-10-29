@@ -1,25 +1,32 @@
-## WELCOME 👋
-들어오신 모든 분들 오늘도 좋은 하루 되세요!
+```text
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: 2taewon ::                  (v2026.10)
 
-## My Favorite tools
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=HTML5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+INFO  --- [main] dev.taewon.Application  : Starting Application using Java 17
+INFO  --- [main] dev.taewon.Application  : The following 1 profile is active: "backend"
+INFO  --- [main] d.t.c.ProductionContext : Serving www.starletter.co.kr on 1 × t3.small (2GB)
+INFO  --- [main] d.t.c.LoadTestRunner    : 4 incidents found by k6, 4 resolved — 181 req/s, 0% errors
+WARN  --- [main] d.t.c.ContributionGraph : Grass is sparse. Commits live in org repos
+INFO  --- [main] dev.taewon.Application  : Started Application — open to backend roles
+```
 
-## My Practice 
-https://www.notion.so/Full-Stack-2025-1bcc2f5b1de3801eb106f88729fc075c?p=1bcc2f5b1de380ae8e80cb7cec6abfb4&pm=s
+**이태원 (Taewon Lee)** · Backend Developer · Seoul
 
-<!--
-**2taewon/2taewon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+쿼리 로그와 부하 테스트로 **왜 느린지, 언제 깨지는지**를 확인하는 걸 좋아합니다.<br>
+지금은 직접 만든 [🌌 별빛안부](https://www.starletter.co.kr)를 운영하고 있어요. → [Starlight-Letter/backend](https://github.com/Starlight-Letter/backend)
 
-Here are some ideas to get you started:
+```yaml
+stack:
+  backend:  [Java, Spring Boot, Spring Security, JPA, JdbcTemplate]
+  data:     [PostgreSQL, Redis, Flyway]
+  infra:    [AWS, Docker Compose, GitHub Actions]
+  observe:  [Prometheus, Grafana, k6]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Mail](https://img.shields.io/badge/teawon1005@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:teawon1005@naver.com)
+[![Notion](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://shore-jaw-781.notion.site/19ac2f5b1de3805291adcab95baf1ab8)
